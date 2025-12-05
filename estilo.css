@@ -70,18 +70,16 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
     font-size: 14px;
+    gap:10px !important;
 }
 
 .form-options a {
     color: #3498db;
     text-decoration: none;
+    gap:10px !important;
 }
 
-.form-options a:hover {
-    text-decoration: underline;
-}
 
 .login-button {
     width: 100%;
